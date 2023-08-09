@@ -1,1 +1,1 @@
-Created webhook trigger with ngrok url.
+Created webhook trigger with ngrok.
