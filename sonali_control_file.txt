@@ -1,5 +1,4 @@
-SCHEMA1/Sonali_demo1.txt
+Sonali_demo1.txt
 cid_risklevel.pkb
 v-ama_recon.vw
 party_adnl.pkb
-a
